@@ -2,7 +2,7 @@
 
 # Ton Nom
 
-Étudiant en ingénierie / data — passionné par la programmation, l’analyse et les projets techniques.
+Étudiant en première année du cycle ingénieur Data & Applications à ESIEE Paris
 
 ---
 
@@ -11,7 +11,7 @@
 Bienvenue sur mon profil GitHub.  
 Vous trouverez ici mes projets personnels et scolaires, allant de la programmation bas-niveau au Machine Learning, en passant par l’analyse de données et l’algorithmique.
 
-Je m'intéresse particulièrement à l’intelligence artificielle, au développement logiciel et aux systèmes embarqués.
+Je m’intéresse particulièrement à la finance et je m’efforce d’enrichir mes connaissances chaque jour.
 
 ---
 
@@ -47,23 +47,11 @@ Je m'intéresse particulièrement à l’intelligence artificielle, au développ
 ## Contact
 
 📧 Email : 
-📍 Localisation : *ta ville / ton pays*
+        Perso : saadefet12@gmail.com
+        Pro   : saad.eloutati@edu.esiee.fr
+📍 Localisation : Paris
 
 ---
 
 Merci de votre visite !
 
-<!--
-**SaadELOUTATI/SaadELOUTATI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
