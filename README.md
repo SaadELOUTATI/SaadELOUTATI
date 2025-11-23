@@ -13,6 +13,8 @@ Vous trouverez ici mes projets personnels et scolaires, allant de la programmati
 
 Je m’intéresse particulièrement à la finance et je m’efforce d’enrichir mes connaissances chaque jour.
 
+En parallèle de mes projets académiques, j’occupe le rôle de responsable du suivi d’études au sein de Junior ESIEE. Je suis également co-fondateur et vice-président du club ESIEE Maroc, où je contribue au développement des initiatives étudiantes et à la valorisation de la communauté marocaine de l’école.
+
 ---
 
 ## Langages
