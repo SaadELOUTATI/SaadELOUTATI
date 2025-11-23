@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Ton Nom
+#                         Saad EL OUTATI
 
 Étudiant en première année du cycle ingénieur Data & Applications à ESIEE Paris
 
@@ -49,6 +49,11 @@ Je m’intéresse particulièrement à la finance et je m’efforce d’enrichir
         Perso : saadefet12@gmail.com
         Pro   : saad.eloutati@edu.esiee.fr
 📍 Localisation : Paris
+<p>
+  <a href="www.linkedin.com/in/saad-el-outati" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
 
 ---
 
