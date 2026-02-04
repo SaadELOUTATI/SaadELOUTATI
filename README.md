@@ -27,7 +27,10 @@ En parallèle de mes projets académiques, j’occupe le rôle de responsable du
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/cobol/00599C" width="50"/>
 </p>
+
 
 ---
 
