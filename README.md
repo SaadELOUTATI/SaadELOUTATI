@@ -13,7 +13,6 @@ Vous trouverez ici mes projets personnels et scolaires, allant de la programmati
 
 Je m’intéresse particulièrement à la finance et je m’efforce d’enrichir mes connaissances chaque jour.
 
-En parallèle de mes projets académiques, j’occupe le rôle de responsable du suivi d’études au sein de Junior ESIEE. Je suis également Fondateur et président du club Finance.
 ---
 
 ## Langages
