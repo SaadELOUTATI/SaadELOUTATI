@@ -13,8 +13,7 @@ Vous trouverez ici mes projets personnels et scolaires, allant de la programmati
 
 Je m’intéresse particulièrement à la finance et je m’efforce d’enrichir mes connaissances chaque jour.
 
-En parallèle de mes projets académiques, j’occupe le rôle de responsable du suivi d’études au sein de Junior ESIEE. Je suis également co-fondateur et vice-président du club ESIEE Maroc, où je contribue au développement des initiatives étudiantes et à la valorisation de la communauté marocaine de l’école.
-
+En parallèle de mes projets académiques, j’occupe le rôle de responsable du suivi d’études au sein de Junior ESIEE. Je suis également Fondateur et président du club Finance.
 ---
 
 ## Langages
@@ -28,7 +27,6 @@ En parallèle de mes projets académiques, j’occupe le rôle de responsable du
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/cobol/00599C" width="50"/>
 </p>
 
 
