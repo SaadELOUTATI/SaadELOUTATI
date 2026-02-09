@@ -8,10 +8,16 @@
 
 ## À propos
 
-Bienvenue sur mon profil GitHub.  
-Vous trouverez ici mes projets personnels et scolaires, allant de la programmation bas-niveau au Machine Learning, en passant par l’analyse de données et l’algorithmique.
+Étudiant ingénieur en Data, Applications et Intelligence Artificielle à l’ESIEE Paris,  
+je développe des projets mêlant programmation, analyse de données, algorithmique et premiers travaux en machine learning.
 
-Je m’intéresse particulièrement à la finance et je m’efforce d’enrichir mes connaissances chaque jour.
+Mon parcours m’a permis d’acquérir de solides bases en Python, C/C++, SQL et data science, que je mets en pratique à travers des projets personnels, académiques et associatifs.  
+Je m’intéresse particulièrement aux **applications de la data en finance**, domaine dans lequel je développe des analyses, des indicateurs et des études orientées décision.
+
+Ce GitHub regroupe l’ensemble de mes projets.  
+👉 **Mes projets professionnels et académiques liés à l’ESIEE sont disponibles dans le repository _ESIEE_.**  
+Il reflète ma progression continue, ma rigueur technique et mon envie d’approfondir les aspects théoriques et pratiques de l’ingénierie des données.
+
 
 ---
 
