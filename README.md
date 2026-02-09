@@ -2,13 +2,12 @@
 
 #                         Saad EL OUTATI
 
-Étudiant en première année du cycle ingénieur Data & Applications à ESIEE Paris
+Étudiant en première année du cycle ingénieur Data & Applications et Intelligence Artificielle à ESIEE Paris
 
 ---
 
 ## À propos
 
-Étudiant ingénieur en Data, Applications et Intelligence Artificielle à l’ESIEE Paris,  
 je développe des projets mêlant programmation, analyse de données, algorithmique et premiers travaux en machine learning.
 
 Mon parcours m’a permis d’acquérir de solides bases en Python, C/C++, SQL et data science, que je mets en pratique à travers des projets personnels, académiques et associatifs.  
