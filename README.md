@@ -54,8 +54,7 @@ Il reflète ma progression continue, ma rigueur technique et mon envie d’appro
 ## Contact
 
 📧 Email : 
-        Perso : saadefet12@gmail.com
-        Pro   : saad.eloutati@edu.esiee.fr
+         saad.eloutati@edu.esiee.fr
 📍 Localisation : Paris
 <p>
   <a href="www.linkedin.com/in/saad-el-outati" target="_blank">
